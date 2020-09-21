@@ -9,10 +9,10 @@ I am 3rd year undergraduate engineering student who is passionate about Data Sci
 - ⚡ Fun fact: Data Science has the word science in it because there's lot of experimentations involved in it. 
 
 ## Skills
-* Python
-* Data Visualization & EDA
-* Pandas, numpy
-* Probability and Statistics for DS
+* 💻 Python
+* 🔎 EDA & Data Visualization
+* 📊 Pandas, numpy
+* 🔢 Probability and Statistics for DS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/swapnilvishwakarma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/swapnil-vishwakarma/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/swapnilvishwakarma_/)  
 
