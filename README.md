@@ -6,7 +6,7 @@ I am 3rd year undergraduate engineering student who is passionate about Data Sci
 
 - 🔭 I’m currently working on ML based chatbot 
 - 🌱 I’m currently learning ML, DL, AI 
-- ⚡ Fun fact: Data Science has the word science in it because there is a lot of experimentation involved in it. 
+- ⚡ Fun fact: Data Science has the word science in it because there's lot of experimentations involved in it. 
 
 ## Skills
 * Python
