@@ -8,6 +8,8 @@ I am 3rd year undergraduate engineering student who is passionate about Data Sci
 - 🌱 I’m currently learning ML, DL, AI 
 - ⚡ Fun fact: Data Science has the word science in it because there is a lot of experimentation involved in it. 
 
+## Skills
+* 👨🏻‍💻 Python
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/swapnilvishwakarma)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/swapnil-vishwakarma/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/swapnilvishwakarma_/)  
 
