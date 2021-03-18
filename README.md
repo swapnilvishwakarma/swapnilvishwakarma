@@ -8,6 +8,7 @@ I am a 3rd year undergraduate engineering student who is passionate about Data S
 * Natural Language Processing 
 * Exploratory Data Analysis
 * Data Visualization
+* Artificial Intelligence
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -34,6 +35,7 @@ I am a 3rd year undergraduate engineering student who is passionate about Data S
 * Reading Books
 * Photogarphy
 * Sketching
+* Swimming
 
 <hr>
 
