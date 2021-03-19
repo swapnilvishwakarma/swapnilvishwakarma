@@ -31,6 +31,7 @@ I am a 3rd year undergraduate engineering student who is passionate about Data S
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
+
 ### My Hobbies and interests:
 * Reading Books
 * Photogarphy
@@ -42,6 +43,9 @@ I am a 3rd year undergraduate engineering student who is passionate about Data S
 #### You can also find me on:
 [<img align="left" alt="swapnil-vishwakarma | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][Linkedin]
 [<img align="left" alt="swapnil-swapnilvishwakarma_ | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+[![Medium Badge](https://img.shields.io/badge/-@swapnil-vishwakarma?style=flat-square&labelColor=000000&logo=Medium&link=https://swapnil-vishwakarma.medium.com/)](https://swapnil-vishwakarma.medium.com/)
+
+[![Gmail Badge](https://img.shields.io/badge/-swapnilvishwakarma7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swapnilvishwakarma7@gmail.com)](mailto:swapnilvishwakarma7@gmail.com)
 
 [Linkedin]: https://www.linkedin.com/in/swapnil-vishwakarma/
 [Instagram]: https://www.instagram.com/swapnilvishwakarma_/
