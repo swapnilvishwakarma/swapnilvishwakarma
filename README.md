@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you</h1>
 <h1 align="center">I'm Swapnil Vishwakarma</h1>
 
-I am a 3rd year undergraduate engineering student who is passionate about Data Science, Machine Learning and Deep Learning.
+I am a 4th year undergraduate engineering student who is passionate about <kbd>Data Science</kbd>, <kbd>Machine Learning</kbd> and <kbd>Deep Learning</kbd>.
 ### I have technical experience and interest in:
 * Building chatbots using Rasa framework and Google Diagolflow
 * Computer vision 
@@ -31,28 +31,36 @@ I am a 3rd year undergraduate engineering student who is passionate about Data S
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
+<hr>
 
 ### My Hobbies and interests:
-* Reading Books
-* Photogarphy
-* Sketching
-* Swimming
+<details>
+<summary>Click here to reveal</summary>
+<pre>
+📚 Reading Books
+📷 Photogarphy
+✏️ Sketching
+🏊‍♀️ Swimming
+🎵 Listening Music
+</details>
 
-<hr>
 
-#### You can also find me on:
-[<img align="left" alt="swapnil-vishwakarma | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][Linkedin]
-[<img align="left" alt="swapnil-swapnilvishwakarma_ | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+### You can also find me on:
+<a href="https://www.linkedin.com/in/swapnil-vishwakarma/">
+<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+</a>
+<a href="https://www.instagram.com/swapnilvishwakarma_/">
+<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+</a>
+<a href="mailto:swapnilvishwakarma7@gmail.com">
+<img src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
+</a>
+
 [![Medium Badge](https://img.shields.io/badge/-@swapnil-vishwakarma?style=flat-square&labelColor=000000&logo=Medium&link=https://swapnil-vishwakarma.medium.com/)](https://swapnil-vishwakarma.medium.com/)
-
-[![Gmail Badge](https://img.shields.io/badge/-swapnilvishwakarma7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swapnilvishwakarma7@gmail.com)](mailto:swapnilvishwakarma7@gmail.com)
-
-[Linkedin]: https://www.linkedin.com/in/swapnil-vishwakarma/
-[Instagram]: https://www.instagram.com/swapnilvishwakarma_/
-
-<br>
+ 
 <hr>
 
+ ### 📊 Some Stats!
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swapnilvishwakarma&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilvishwakarma)](https://github.com/anuraghazra/github-readme-stats)
