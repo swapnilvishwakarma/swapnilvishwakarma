@@ -1,9 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you</h1>
 <h1 align="center">I'm Swapnil Vishwakarma</h1>
 
-I am a 4th year undergraduate engineering student who is passionate about <kbd>Data Science</kbd>, <kbd>Machine Learning</kbd> and <kbd>Deep Learning</kbd>.
-### I have technical experience and interest in:
-* Building chatbots using Rasa framework and Google Diagolflow
+I consider myself a forever learner who has deep interest in <kbd>Machine Learning</kbd>, <kbd>Deep Learning</kbd> and <kbd>Data Science</kbd>.
+### I have technical experience in the feilds of:
+* AWS
+* SQL
+* Tableau, Qlik Sense
+* SAP HANA, SAP BODS
+* Building chatbots
 * Computer vision 
 * Natural Language Processing 
 * Exploratory Data Analysis
@@ -31,7 +35,7 @@ I am a 4th year undergraduate engineering student who is passionate about <kbd>D
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<hr>
+<!-- <hr> -->
 
 ### My Hobbies and interests:
 <details>
@@ -42,6 +46,8 @@ I am a 4th year undergraduate engineering student who is passionate about <kbd>D
 ✏️ Sketching
 🏊‍♀️ Swimming
 🎵 Listening Music
+💪 Helping Community Members
+</pre>
 </details>
 
 
@@ -59,8 +65,3 @@ I am a 4th year undergraduate engineering student who is passionate about <kbd>D
 [![Medium Badge](https://img.shields.io/badge/-@swapnil-vishwakarma?style=flat-square&labelColor=000000&logo=Medium&link=https://swapnil-vishwakarma.medium.com/)](https://swapnil-vishwakarma.medium.com/)
  
 <hr>
-
- ### 📊 Some Stats!
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=swapnilvishwakarma&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilvishwakarma)](https://github.com/anuraghazra/github-readme-stats)
